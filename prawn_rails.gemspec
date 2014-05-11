@@ -43,7 +43,7 @@ Gem::Specification.new do |s|
     end
   else
     s.add_dependency(%q<railties>, [">= 3.0.0"])
-    s.add_dependency(%q<prawn>, [">= 0.11.1"])
+    s.add_dependency(%q<prawn>, [">= 1.0.0"])
   end
 end
 
