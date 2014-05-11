@@ -13,6 +13,6 @@ Jeweler::Tasks.new do |gem|
   gem.extra_rdoc_files = ["README.rdoc"]
   gem.license = "MIT"
   gem.add_dependency('railties', '>=3.0.0')
-  gem.add_dependency('prawn', '>=0.11.1')
+  gem.add_dependency('prawn', '>=1.0.0')
 end
 Jeweler::RubygemsDotOrgTasks.new
